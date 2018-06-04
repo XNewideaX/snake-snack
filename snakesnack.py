@@ -1,3 +1,4 @@
+#I could just update the code
 #importing pygame module,random function,sys
 import random, pygame, sys
 from pygame.locals import*
